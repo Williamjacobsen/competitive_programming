@@ -2,10 +2,9 @@
 5	107	7515591576126466	CMakeFiles/AtCoder.dir/main.c.obj	882e30290815c99d
 8	134	7515636216856435	CMakeFiles/competitive_programming.dir/Solutions/71A_-_Way_Too_Long_Words.c.obj	83a99719b817e8dc
 109	316	7515591577156479	AtCoder.exe	e647c94480f1474a
-172	415	7515631521348447	competitive_programming.exe	71aa5b5e56939468
-4	132	7515636216806389	CMakeFiles/competitive_programming.dir/main.c.obj	259e2104f569507e
-12	299	7515636582765851	build.ninja	38cad81031abb662
+76	193	7515643686157198	competitive_programming.exe	71aa5b5e56939468
+3	75	7515643685427206	CMakeFiles/competitive_programming.dir/main.c.obj	259e2104f569507e
+12	299	7515644786425647	build.ninja	38cad81031abb662
 77	198	7515604170099510	CMakeFiles/competitive_programming.dir/Solutions/#4A_Watermelon.c.obj	fd78e503b435e81e
-3	119	7515636611805763	competitive_programming.exe	71aa5b5e56939468
-2	68	7515636827196885	CMakeFiles/competitive_programming.dir/main.c.obj	259e2104f569507e
-69	176	7515636827866896	competitive_programming.exe	71aa5b5e56939468
+4	109	7515644935007677	CMakeFiles/competitive_programming.dir/main.c.obj	259e2104f569507e
+109	216	7515644936058041	competitive_programming.exe	71aa5b5e56939468
